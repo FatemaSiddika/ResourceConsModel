@@ -3,6 +3,7 @@ pip install timm
 pip install tqdm
 
 python main.py --model resnet34 --epochs 10
+```
 
 Training Configurations for CIFAR-10
 
